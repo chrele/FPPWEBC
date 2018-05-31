@@ -11,3 +11,6 @@ Our members and our jobdesks are as follows:
 This is the prototype system of MoU/MoA Management for University. A lot can be improved from this model, and we hope that this model can fulfill the criteria for the Final Project which Mr. Fajar Baskoro desired.
 
 Thank you.
+
+t/n : login, username = admin@example.com
+             password = rahasiakami
